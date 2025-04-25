@@ -1,6 +1,6 @@
 # Order Manager - Backend Project
 
-This project was developed as part of my learning journey in backend development with Node.js, TypeScript, and SQL.
+This project was developed as part of my learning journey in backend development with Node.js, TypeScript, and SQLite.
 
 It was originally based on a guided course, but I followed a practice of:
 - Taking notes while watching the content
